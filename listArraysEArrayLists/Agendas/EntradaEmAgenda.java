@@ -61,3 +61,4 @@ public class EntradaEmAgenda {
         return Objects.hash(hora, dia, mes, ano, assunto);
     }
 }
+
