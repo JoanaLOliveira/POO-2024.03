@@ -1,4 +1,4 @@
-package listClassesAbstratasPolimorfismoInterfaces;
+package listClassesAbstratasPolimorfismoInterfaces.QuDiscursivas;
 
 import java.util.ArrayList;
 import java.util.List;

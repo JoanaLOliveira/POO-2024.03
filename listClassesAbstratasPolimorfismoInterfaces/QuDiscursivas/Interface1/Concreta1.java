@@ -1,4 +1,4 @@
-package listClassesAbstratasPolimorfismoInterfaces.Interface1;
+package listClassesAbstratasPolimorfismoInterfaces.QuDiscursivas.Interface1;
 
 public class Concreta1 implements Interface1{
     public int metodoComum(){

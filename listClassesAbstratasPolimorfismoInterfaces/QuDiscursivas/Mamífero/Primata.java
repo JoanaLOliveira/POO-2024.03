@@ -1,4 +1,4 @@
-package listClassesAbstratasPolimorfismoInterfaces.Mamífero;
+package listClassesAbstratasPolimorfismoInterfaces.QuDiscursivas.Mamífero;
 
 public class Primata extends Mamifero{
     protected void andar (){

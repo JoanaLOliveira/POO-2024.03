@@ -1,4 +1,4 @@
-package listClassesAbstratasPolimorfismoInterfaces.Exame;
+package listClassesAbstratasPolimorfismoInterfaces.QuDiscursivas.Exame;
 
 public class GlicemiaJejum extends ExameSangue{
     public void mostrarPreparo(){
