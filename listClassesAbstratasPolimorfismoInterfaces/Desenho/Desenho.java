@@ -17,10 +17,10 @@ public class Desenho {
 
     // Construtor para inicializar todos os atributos
     public Desenho(Quadrado figura1, int x1, int y1, Triangulo figura2, int x2, int y2) {
-        this.figura1 = figura1;
+        /* this.figura1 = figura1; */
         this.x1 = x1;
         this.y1 = y1;
-        this.figura2 = figura2;
+        /* this.figura2 = figura2; */
         this.x2 = x2;
         this.y2 = y2;
     }
